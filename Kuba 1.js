@@ -51,3 +51,7 @@ switch (new Date().getDay())
 }  
 
 console.log(day);
+
+const dupa = String(a+b+z);
+
+console.log(dupa)
